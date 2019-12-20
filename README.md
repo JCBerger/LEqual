@@ -1,4 +1,4 @@
-# Lequal
+# LEqual
 
 "Lequal" is a portmanteau of of "legal" and "equal."
 
